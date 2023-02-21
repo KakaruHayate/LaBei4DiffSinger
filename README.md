@@ -1,0 +1,2 @@
+# LaBei4DiffSinger
+UTAU音库LaBei Rasubeku的DiffSinger移植
