@@ -21,7 +21,7 @@ UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项�
 
 # 如何使用
 
-目前DiffSinger训练所得声库可通过OpenUTAU for Diffsinger进行编辑，相关项目：https://github.com/xunmengshe/OpenUtau
+目前DiffSinger训练所得声库可使用OpenUTAU for Diffsinger作为编辑器进行创作，相关项目：https://github.com/xunmengshe/OpenUtau
 
 本声库已完成打包，使用可以参照以下教程
 
