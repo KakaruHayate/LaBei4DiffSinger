@@ -11,7 +11,11 @@ UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项�
 
 暂按UTAU中华组公共规约https://utauchn.huijiwiki.com/wiki/公共规约 ，获得授权请以联系原音源音源管理者、声音提供者、角色设计者为主
 
-目前音库由DiffSinger多人训练实验trashbin训练后导出（多说话人，总计15小时数据），音域F3-F5表现良好，未来会考虑单独训练
+1.0版本音库由DiffSinger多人训练实验trashbin训练后导出（多说话人，总计15小时数据），音域在F3-F5
+
+2.0版本音库为原音源外加Opencpop和M4Singers（Alto_4）进行多说话人训练后导出，作为音源移植可看作单独训练，音域在D3-C#5，长音部分获得一定改善，音质相比1.0获得提升
+
+1.0版本仍会继续随着trashbin实验的进一步开展继续更新，感谢A60（https://github.com/djkcyl）提供的训练
 
 
 # 如何获取
