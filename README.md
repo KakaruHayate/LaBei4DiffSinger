@@ -29,4 +29,4 @@ UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项�
 
 本声库已完成打包，使用可以参照以下教程
 
-https://www.yuque.com/sunsa-i3ayc/sivu7h/ggn73v63tu74eqmv
+https://www.yuque.com/openvpi/tutorial/ggn73v63tu74eqmv
