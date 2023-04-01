@@ -29,6 +29,17 @@ UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项�
 - [ ] 多语言支持（真的会有吗？）
 
 
+# 目前存在的问题
+
+ - 完美的用另一条技术路线复刻了原声库的发音缺陷（尤其是'in'），但不能用原音源配布站的解决方式修复
+ - 又造成了更多发音缺陷（'i'、'e'、've'）
+ - 以上问题单独拆音都能有所改善，但只能改善一点点，某些问题可能源自应用于UTAU的录音表和DiffSinger中文词典的“不兼容”，某些问题可能源自于标注的问题
+ - 考虑从其他版本的音源替换掉不兼容的发音，用连续音的音源移植或许不是一个好主意
+ - “我去除了大部分的拼接声库的痕迹，但保留了一部分，我觉得保留一部分拼接味，才知道你用的是UTAU声库”
+ - 训练的炉子里东西越杂拼接味问题改善的越好一些，但总归还是有一些，这倒是证明了仅仅使用大量单一优质数据转制UTAU声库是不行的，2.0可能不会再继续做了
+ - （能出声就已经很成功了。——YQ之神）
+
+
 # 如何获取
 
 通过本仓库release页
@@ -36,7 +47,7 @@ UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项�
 
 # 如何使用
 
-目前DiffSinger训练所得声库可使用OpenUTAU for Diffsinger作为编辑器进行创作，相关项目：https://github.com/xunmengshe/OpenUtau
+目前DiffSinger训练所得声库可使用OpenUTAU for DiffSinger作为编辑器进行创作，相关项目：https://github.com/xunmengshe/OpenUtau
 
 本声库已完成打包，使用可以参照以下教程
 
