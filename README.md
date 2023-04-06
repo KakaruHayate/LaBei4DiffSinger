@@ -24,7 +24,7 @@ UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项�
 - [x] 混合多说话人训练（1.0）
 - [x] 只有标准开源数据集的多说话人训练（2.0）（路线正确性探索中，暂停）
 - [ ] 更为准确的标注（非标准音素标注探索中）
-- [ ] 试听曲
+- [x] [试听曲](https://www.bilibili.com/video/BV1F84y1T7xz/)
 - [ ] 日文支持（待DiffSinger更新日文流程）
 - [ ] 多语言支持（真的会有吗？）
 
