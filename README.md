@@ -1,3 +1,6 @@
+对于diffsinger-v2还没有进行新的权重更新，可能会产生不兼容
+有生之年可能会考虑重构（新的权重/多语言支持/唱法模型（？））
+
 # LaBei4DiffSinger
 
 UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项目：https://github.com/openvpi/DiffSinger
@@ -21,12 +24,11 @@ UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项�
 # 转制进展
 
 - [x] 简易流程数据集制作
-- [x] 混合多说话人训练（1.0）
-- [x] 只有标准开源数据集的多说话人训练（2.0）（路线正确性探索中，暂停）
+- [x] 混合多说话人训练
 - [ ] 更为准确的标注（非标准音素标注探索中）
 - [x] [试听曲](https://www.bilibili.com/video/BV1F84y1T7xz/)
-- [ ] 日文支持（待DiffSinger更新日文流程）
-- [ ] 多语言支持（真的会有吗？）
+- [ ] 日文支持
+- [ ] 多语言支持
 
 
 # 目前存在的问题
