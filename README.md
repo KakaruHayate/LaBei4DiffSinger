@@ -1,3 +1,5 @@
+**停止更新**
+
 # LaBei4DiffSinger
 
 UTAU音库LaBei Rasubeku的DiffSinger（OpenSVIP维护版）移植，相关项目：https://github.com/openvpi/DiffSinger
